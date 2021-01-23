@@ -7,7 +7,7 @@
 </div>
 
 # Description
-Wallpaper API adalah sebuah API yg berguna untuk menampilkan banyak Wallpaper Unik yg berasal dari web https://wallpaperflare.com
+Wallpaper API adalah sebuah API yg berguna untuk menampilkan banyak Wallpaper HD/4K Unik yg berasal dari web https://wallpaperflare.com
 
 
 | Description | Endpoint | 
