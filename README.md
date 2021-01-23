@@ -13,6 +13,7 @@ Wallpaper API adalah sebuah API yg berguna untuk menampilkan banyak Wallpaper HD
 | Description | Endpoint | 
 |------------ | ---------|
 | All Wallpaper Technology | https://wallpaper-api-zhirrr.vercel.app/api/technology |
+| All Wallpaper Programming | https://wallpaper-api-zhirrr.vercel.app/api/programming |
 
 
 
