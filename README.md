@@ -16,6 +16,7 @@ Wallpaper API adalah sebuah API yg berguna untuk menampilkan banyak Wallpaper HD
 | All Wallpaper Programming | https://wallpaper-api-zhirrr.vercel.app/api/programming |
 | All Wallpaper CyberSpace | https://wallpaper-api-zhirrr.vercel.app/api/cyberspace |
 | All Wallpaper Islamic | https://wallpaper-api-zhirrr.vercel.app/api/islamic |
+| All Wallpaper Mountain View | https://wallpaper-api-zhirrr.vercel.app/api/mountain |
 
 
 
