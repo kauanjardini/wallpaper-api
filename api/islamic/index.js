@@ -1,11 +1,9 @@
 const path = require('path')
 const fs = require('fs').promises
-const fileJson = path.join(__dirname, '..', '..', 'data', 'Islamic.json')
+const fileJson = path.join(__dirname, '..', '..', '..', 'data', 'Islamic.json')
 
 module.exports = async (_, res) => {
     const data = await fs.readFile(fileJson, 'utf-8')
     const wallpaper = JSON.parse(data)
-    const hasil = res.json(wallpaper)
-
-    res.status(200).send(hasil)
+    res.json({ status : true, results : wallpaper})
 }
