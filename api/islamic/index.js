@@ -5,7 +5,6 @@ const fileJson = path.join(__dirname, '..', '..', 'data', 'Islamic.json')
 module.exports = async (_, res) => {
     const data = await fs.readFile(fileJson, 'utf-8')
     const wallpaper = JSON.parse(data)
-    const hasil = {"results" : wallpaper}
 
-    res.status(200).send(hasil)
+    res.status(200).send(wallpaper)
 }
