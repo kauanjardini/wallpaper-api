@@ -1,4 +1,4 @@
-const wallpaper = require('./src/islamic')
+const wallpaper = require('./api/islamic')
 const fs = require('fs')
 const path = require('path')
 const chalk = require('chalk')
